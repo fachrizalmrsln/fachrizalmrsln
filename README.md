@@ -12,9 +12,9 @@
 
 ---
 
-- 📱 I write Android apps in Kotlin, mostly with Jetpack Compose these days
-- 🧑‍🏫 I like teaching — I've taught Android classes and spoken at a few meetups
-- ✍️ Sometimes I write about what I learn on [Medium](https://medium.com/@fachrizalmrsln)
+- 📱 Android Engineer working primarily in Kotlin
+- 🧑‍🏫 Enjoy teaching and mentoring — instructor for Android classes and speaker at developer events
+- ✍️ Occasionally write about Android Development articles
 
 ---
 
